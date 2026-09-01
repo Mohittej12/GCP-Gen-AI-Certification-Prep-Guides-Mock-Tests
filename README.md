@@ -6,6 +6,13 @@ Local, timed mock exam practice for the [Google Cloud Generative AI Leader](http
 
 ---
 
+### 🎯 Ready to Take the Exam?
+
+**Register for the Google Cloud Generative AI Leader Certification Exam:**
+[**→ Register Here** ](https://rsvp.withgoogle.com/events/google_cloud_launchpad_for_women_gail_edition_apac_2026_sept/home)
+
+---
+
 ### 📚 Related Resources
 
 - **Certification Notes:** [Google Cloud Generative AI Leader Certification Notes](https://mohittej12.github.io/GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests/cert-notes/) - Comprehensive study guide and reference materials
