@@ -730,6 +730,7 @@
   {
     "id": "github-set1-29",
     "section": 1,
+    "type": "multi",
     "questionText": "You're developing an AI-powered loan application assessment system. Which steps would you take to ensure your system is developed responsibly? Select two.",
     "options": [
       {
@@ -753,7 +754,8 @@
         "text": "Deploy the model without any human oversight, trusting its ability to make fair and unbiased decisions."
       }
     ],
-    "correctAnswer": "A",
+    "correctAnswers": ["A", "B"],
+    "requiredSelections": 2,
     "explanation": null,
     "source": "GitHub Set 1"
   },
