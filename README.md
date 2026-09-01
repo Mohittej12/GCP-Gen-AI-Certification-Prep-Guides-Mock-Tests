@@ -1,6 +1,6 @@
 # GCP Generative AI Leader – Mock Tests
 
-Local, timed mock exam practice for the [Google Cloud Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader) certification. No login required; runs entirely in your browser.
+Local, timed mock exam practice for the https://rsvp.withgoogle.com/events/google_cloud_launchpad_for_women_gail_edition_apac_2026_sept/home certification. No login required; runs entirely in your browser.
 
 **Live site (GitHub Pages):** https://mohittej12.github.io/GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests/
 
@@ -74,7 +74,7 @@ Then open **http://localhost:8080** on this machine or **http://\<your-IP\>:8080
 
 ## Sources and thanks
 
-- **Official resources:** [Google Cloud Generative AI Leader certification](https://cloud.google.com/learn/certification/generative-ai-leader) and [official sample questions (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLScNn5oUIFeMQjtsHilQsJPxDsnP-0DbhDVsIXaBeCmPj-dgYw/viewform).
+- **Official resources:** https://rsvp.withgoogle.com/events/google_cloud_launchpad_for_women_gail_edition_apac_2026_sept/home.
 
 This project is **unofficial** practice material and is not affiliated with or endorsed by Google LLC.
 
