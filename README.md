@@ -2,18 +2,18 @@
 
 Local, timed mock exam practice for the [Google Cloud Generative AI Leader](https://cloud.google.com/learn/certification/generative-ai-leader) certification. No login required; runs entirely in your browser.
 
-**Live site (GitHub Pages):** https://cluelessog.github.io/gcp-generative-ai-leader-mock-tests/
+**Live site (GitHub Pages):** https://mohittej12.github.io/GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests/
 
 ## How to use
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/cluelessog/gcp-generative-ai-leader-mock-tests.git
+   git clone https://github.com/Mohittej12/GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests.git
    ```
 
 2. **Go into the folder**
    ```bash
-   cd gcp-generative-ai-leader-mock-tests
+   cd GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests
    ```
 
 3. **Install dependencies**
@@ -37,7 +37,7 @@ Local, timed mock exam practice for the [Google Cloud Generative AI Leader](http
 If you prefer not to use Node:
 
 ```bash
-cd gcp-generative-ai-leader-mock-tests
+cd GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests
 python -m http.server 8080
 ```
 
