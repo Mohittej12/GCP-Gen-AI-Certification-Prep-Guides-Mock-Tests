@@ -59,7 +59,6 @@ Then open **http://localhost:8080** on this machine or **http://\<your-IP\>:8080
 
 ## Sources and thanks
 
-- **Question bank:** Questions are sourced from the [GCP Generative AI Leader Certification – MCQ collection](https://github.com/rajesh-suryaprakash/GCP-Generative-AI-Leader-Certification) on GitHub by [rajesh-suryaprakash](https://github.com/rajesh-suryaprakash). Thank you for making this practice material available.
 - **Official resources:** [Google Cloud Generative AI Leader certification](https://cloud.google.com/learn/certification/generative-ai-leader) and [official sample questions (Google Form)](https://docs.google.com/forms/d/e/1FAIpQLScNn5oUIFeMQjtsHilQsJPxDsnP-0DbhDVsIXaBeCmPj-dgYw/viewform).
 
 This project is **unofficial** practice material and is not affiliated with or endorsed by Google LLC.
@@ -67,3 +66,11 @@ This project is **unofficial** practice material and is not affiliated with or e
 ## Rebuilding question data (optional)
 
 To regenerate `data/questions.json` and `data/mocks.json` from the GitHub MCQ source, run the Python scripts in the `scripts/` folder (see script docstrings for usage).
+
+---
+
+## Prepared by
+
+This project is prepared by **Gowrabathuni Mohit Tej**
+
+Connect with me on LinkedIn: [Mohit Tej Gowrabathuni](https://www.linkedin.com/in/mohit-tej-gowrabathuni-9abaa9354/)
