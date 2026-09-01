@@ -8,7 +8,7 @@ Local, timed mock exam practice for the [Google Cloud Generative AI Leader](http
 
 ### 📚 Related Resources
 
-- **Certification Notes:** [Google Cloud Generative AI Leader Certification Notes](./cert-notes/) - Comprehensive study guide and reference materials
+- **Certification Notes:** [Google Cloud Generative AI Leader Certification Notes](https://mohittej12.github.io/GCP-Gen-AI-Certification-Prep-Guides-Mock-Tests/cert-notes/) - Comprehensive study guide and reference materials
 
 ---
 
