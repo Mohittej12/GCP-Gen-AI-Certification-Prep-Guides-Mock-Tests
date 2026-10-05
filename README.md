@@ -66,7 +66,7 @@ Then open **http://localhost:8080** on this machine or **http://\<your-IP\>:8080
 
 ## What's included
 
-- **7 mock tests**, 50 questions each, 90 minutes per test (aligned to the official exam format).
+- **12 mock tests**, 50 questions each, 90 minutes per test (aligned to the official exam format).
 - **Section weights** matching the exam: Fundamentals ~30%, GCP offerings ~35%, Techniques ~20%, Business strategies ~15%.
 - **Timer** with auto-submit when time runs out, plus 10- and 5-minute warnings.
 - **Results** with score, pass/fail (70% threshold), section breakdown, and per-question review with correct answers and explanations where available.

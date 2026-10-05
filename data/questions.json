@@ -7392,5 +7392,40 @@
     "correctAnswer": "A",
     "explanation": null,
     "source": "DocScanner"
+  },
+  {
+    "id": "github-set1-73",
+    "section": 1,
+    "type": "multi",
+    "questionText": "Which of the following statements accurately describe Gemini? Select two.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Gemini is a chatbot that can answer questions and generate creative content."
+      },
+      {
+        "key": "B",
+        "text": "Gemini is a type of artificial intelligence that can create new content, including text, images, music, and even code."
+      },
+      {
+        "key": "C",
+        "text": "Gemini is an AI assistant that can help you be more creative and productive."
+      },
+      {
+        "key": "D",
+        "text": "Gemini is a type of generative AI specifically designed for generating images."
+      },
+      {
+        "key": "E",
+        "text": "Gemini is a generative AI model (or family of models) developed by Google."
+      }
+    ],
+    "correctAnswers": [
+      "C",
+      "E"
+    ],
+    "requiredSelections": 2,
+    "explanation": null,
+    "source": "GitHub Set 1"
   }
 ]
