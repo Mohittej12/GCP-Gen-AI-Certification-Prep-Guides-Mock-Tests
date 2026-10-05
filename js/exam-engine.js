@@ -40,8 +40,8 @@ var ExamEngine = {
 
     var self = this;
     Promise.all([
-      fetch('data/mocks.json').then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
-      fetch('data/questions.json').then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      fetch('data/mocks.json', { cache: 'no-store' }).then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); }),
+      fetch('data/questions.json', { cache: 'no-store' }).then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
     ]).then(function(arr) {
       var mocks = arr[0];
       var allQuestions = arr[1];

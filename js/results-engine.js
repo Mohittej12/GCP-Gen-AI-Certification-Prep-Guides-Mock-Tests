@@ -31,7 +31,7 @@ var ResultsEngine = {
       return;
     }
 
-    fetch('data/mocks.json')
+    fetch('data/mocks.json', { cache: 'no-store' })
       .then(function(r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function(mocks) {
         var mock = mocks.find(function(m) { return m.mockId === ResultsEngine.mockId; });
